@@ -1,9 +1,7 @@
-<!-- 
 <br/>
 
 
-<img align="center" alt="" src="1.jpg" width="800" height="400" /> -->
-
+<img align="center" alt="" src="https://www.reperiohumancapital.com/sites/default/files/styles/700x300/public/Software.jpg?itok=a-rpAYGG" width="1000" height="400" /> -->
 
 
 
