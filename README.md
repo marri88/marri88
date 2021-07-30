@@ -1,7 +1,7 @@
 <br/>
 
 
-<img align="center" alt="" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.quora.com%2FWhat-is-the-best-programming-language-to-learn-for-a-data-engineer-in-2019&psig=AOvVaw37I9-Je9DStE1kV9L5OVw3&ust=1627745945924000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCID7mrGQi_ICFQAAAAAdAAAAABAd" width="900" height="400" /> 
+<img align="center" alt="" src="https://qph.fs.quoracdn.net/main-qimg-4882dffad9e8561c9a30ba843b8ebf57" width="900" height="400" /> 
 
 
 
