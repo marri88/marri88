@@ -1,7 +1,7 @@
 <br/>
 
 
-<img align="center" alt="" src="https://qph.fs.quoracdn.net/main-qimg-4882dffad9e8561c9a30ba843b8ebf57" width="1000" height="700" /> 
+<img align="center" alt="" src="https://qph.fs.quoracdn.net/main-qimg-4882dffad9e8561c9a30ba843b8ebf57" width="800" height="400" /> 
 
 
 
