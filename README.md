@@ -112,44 +112,9 @@
 ---
 
 <details>
-<summary> Languages and Tools: </summary>
+<summary> Experience: </summary>
 
-Rest-framework Api 
----
-Postgres SQL
----
-PgAdmin4
----
-MySQL
----
-Markdown
----
-Postman
----
-Docker 
----
-GitHub, GitLub 
----
-Telegram-bot, Insta-bot
----
-Terminal
----
-HTML, CCS
----
-Heroku
----
-W-Get
----
-Parsing 
----
-Bootstrap
----
-ORM 
----
-Swagger
----
-Jinja
----
+
   
 <br/>
 
